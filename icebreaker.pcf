@@ -1,0 +1,7 @@
+set_io CLOCK 35
+
+set_io LEDS[0] 27
+set_io LEDS[1] 21
+set_io LEDS[2] 25
+set_io LEDS[3] 23
+set_io LEDS[4] 26
